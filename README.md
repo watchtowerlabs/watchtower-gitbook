@@ -1,0 +1,51 @@
+---
+cover: .gitbook/assets/6.png
+coverY: 25.673913043478258
+---
+
+# 🖖 Welcome
+
+## Introduction <a href="#introduction" id="introduction"></a>
+
+Watchtower's vision is to build the financial and economic foundations for a Starfleet capable planet starting with enabling on-chain private credit for space infrastructure projects.&#x20;
+
+{% content-ref url="overview/disclaimer-and-links.md" %}
+[disclaimer-and-links.md](overview/disclaimer-and-links.md)
+{% endcontent-ref %}
+
+## Get Started Quickly!
+
+{% content-ref url="/broken/pages/xGwiZzHbZRELZaWn2Bto" %}
+[Broken link](/broken/pages/xGwiZzHbZRELZaWn2Bto)
+{% endcontent-ref %}
+
+***
+
+## Community
+
+{% content-ref url="overview/governance.md" %}
+[governance.md](overview/governance.md)
+{% endcontent-ref %}
+
+***
+
+## The Lending Market
+
+{% content-ref url="lending/overview.md" %}
+[overview.md](lending/overview.md)
+{% endcontent-ref %}
+
+***
+
+## The Watchtower Stack
+
+{% content-ref url="watchtower-stack/overview.md" %}
+[overview.md](watchtower-stack/overview.md)
+{% endcontent-ref %}
+
+
+
+
+
+
+
