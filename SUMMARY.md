@@ -26,7 +26,7 @@
 ## Watchtower Stack
 
 * [🌄 Overview](watchtower-stack/overview.md)
-* [💵 Stablecoin](watchtower-stack/stablecoin.md)
+* [💵 Stablecoin (1AUD)](watchtower-stack/stablecoin-1aud.md)
 * [📱 Apps](watchtower-stack/apps.md)
 * [🔮 Oracle](watchtower-stack/oracle.md)
 * [🛜 DePIN](watchtower-stack/depin.md)
