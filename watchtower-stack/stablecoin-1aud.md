@@ -2,7 +2,7 @@
 description: The utility powering the Watchtower stack
 ---
 
-# 💵 Stablecoin
+# 💵 Stablecoin (1AUD)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,9 +28,9 @@ Yield for 1AUD comes from actively managed **strategy vaults**, each focused on 
 
 These vaults are modular and automatically rebalanced to maintain an optimal risk–reward balance.
 
-### **How Yield Is Tracked**
+### **How Yield Is Generated**
 
-An internal accounting model continuously tracks the **Net Asset Value (NAV)** of the 1AUD portfolio. This system ensures that:
+An accounting model continuously tracks the **Net Asset Value (NAV)** of the 1AUD portfolio. This system ensures that:
 
 * Each 1AUD token always represents its fair share of the portfolio’s yield.
 * Users don’t need to manage or interact with individual strategies.
