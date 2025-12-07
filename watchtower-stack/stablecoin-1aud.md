@@ -6,6 +6,10 @@ description: The utility powering the Watchtower stack
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+The current version is simpler than discussed here. It is a simple mint/redeem non-yielding stablecoin that must be staked to accrue any yield. The details mentioned below are its upgrade inspired by the awesome folks at Perena.
+{% endhint %}
+
 ## How does 1AUD work?
 
 Each 1AUD token is fully backed by a mix of assets that generate yield. These assets come from four main areas:
