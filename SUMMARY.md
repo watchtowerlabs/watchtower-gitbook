@@ -21,7 +21,7 @@
 * [🤝 Lending](lending/lending.md)
 * [🧑‍⚖️ Underwrite](lending/underwrite.md)
 * [☣️ Risk Management](lending/risk-management.md)
-* [☑️ Audits](lending/audits.md)
+* [☑️ Audits & Addresses](lending/audits-and-addresses.md)
 
 ## Watchtower Stack
 

@@ -28,6 +28,6 @@ This particular product falls under Payload-based financing and Reputation-based
 [risk-management.md](risk-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="audits.md" %}
-[audits.md](audits.md)
+{% content-ref url="audits-and-addresses.md" %}
+[audits-and-addresses.md](audits-and-addresses.md)
 {% endcontent-ref %}
