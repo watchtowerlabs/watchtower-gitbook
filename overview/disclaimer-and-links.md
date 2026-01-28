@@ -13,10 +13,4 @@ You can also find a deck at the following Docsend (soon) link.
 
 ## Links
 
-* [Website](https://watchtower.world/)
-* [X (formerly Twitter)](https://x.com/watchtower150)
-* [GitBook](https://watchtower.gitbook.io/welcome/)
-* [GitHub (Private)](https://github.com/metasolis/station-beacon-hub-app)
-* Discord (soon)
-* Telegram (soon)
-* Coingecko (eventually soon)
+[**Linktree**](https://linktr.ee/watchtowerlabs)
