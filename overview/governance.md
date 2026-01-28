@@ -1,6 +1,6 @@
 # 🏛️ Governance
 
-Watchtower's long-term goal is self-governance via a polycentric form factor as a way to balance chaotic decentralisation and chaotic centralisation \[1]. We're big fans of evolutionary governance which works well for distributed computing ecosystems. What is meant by evolutionary governance is that the system's (Watchtower) governance lives within a spectrum and at the extremes, can be moulded from being either a time-constrained centralised dictatorship or a more time-constrained decentralized democratic structure and anything in between.
+Watchtower's long-term goal is self-governance via a polycentric form factor as a way to balance chaotic decentralisation and chaotic centralisation \[1]. We're big fans of evolutionary governance which works well for distributed computing ecosystems. What is meant by evolutionary governance is that the system's (Watchtower) governance lives within a spectrum and at the extremes, can be moulded from being either a time-constrained centralised dictatorship or a more time-constrained decentralized democratic structure and anything in between. Time constraints are important here as no form of governance can (as history suggests) not be forever.
 
 Using [Metropolis Pod Configurations](https://docs.metropolis.space/docs/pod-basics/pod-configurations) as a guide, Watchtower will initially have a Dictatorship configuration. Being a small team with just an idea to execute, this is the perfect configuration at an early stage with progressive decentralisation of components and subsystems.
 
