@@ -7,7 +7,7 @@ coverY: 25.673913043478258
 
 ## Introduction <a href="#introduction" id="introduction"></a>
 
-Watchtower's vision is to build the financial and economic foundations for a Starfleet capable planet starting with enabling on-chain private credit for space infrastructure projects.&#x20;
+Watchtower's vision is to build the financial and economic foundations for a Starfleet capable planet starting with enabling on-chain private credit for space infrastructure projects.
 
 {% content-ref url="overview/disclaimer-and-links.md" %}
 [disclaimer-and-links.md](overview/disclaimer-and-links.md)
@@ -15,8 +15,8 @@ Watchtower's vision is to build the financial and economic foundations for a Sta
 
 ## Get Started Quickly!
 
-{% content-ref url="/broken/pages/xGwiZzHbZRELZaWn2Bto" %}
-[Broken link](/broken/pages/xGwiZzHbZRELZaWn2Bto)
+{% content-ref url="overview/an-overview.md" %}
+[an-overview.md](overview/an-overview.md)
 {% endcontent-ref %}
 
 ***
@@ -42,10 +42,3 @@ Watchtower's vision is to build the financial and economic foundations for a Sta
 {% content-ref url="watchtower-stack/overview.md" %}
 [overview.md](watchtower-stack/overview.md)
 {% endcontent-ref %}
-
-
-
-
-
-
-
